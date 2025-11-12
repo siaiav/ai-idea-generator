@@ -1,0 +1,4 @@
+**Model:** TinyLlama-1.1B-Chat  
+**Platform:** Google Colab (Free GPU)  
+**Author:** Anastasia Vasileva  
+**Libraries:** transformers, huggingface_hub, accelerate  
