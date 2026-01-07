@@ -28,11 +28,11 @@ It runs entirely in **Google Colab Free Tier**, requires no paid APIs, and demon
 
 ## How to Run
 1) Open Google Colab.
-2) Create a new notebook.
-3) Copy the code from ai_idea_generator.ipynb into your Colab.
-4) Add your Hugging Face Access Token.
+2) Create a new notebook
+3) Copy the code from ai_idea_generator.ipynb into your Colab
+4) Add your Hugging Face Access Token
 5) In Colab: Runtime → Change runtime type → GPU → Save
-6) Run all cells.
+6) Run all cells
 7) Type your topic and watch the model create ideas for you!
 
 ##  Example Usage
